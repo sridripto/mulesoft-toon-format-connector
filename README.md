@@ -25,15 +25,10 @@ Add to your Mule project's `pom.xml`:
 ```xml
 
 <dependency>
-
-&#x20;   <groupId>com.github.toon</groupId>
-
-&#x20;   <artifactId>mule-toon-connector</artifactId>
-
-&#x20;   <version>1.0.0</version>
-
-&#x20;   <classifier>mule-plugin</classifier>
-
+  <groupId>com.github.toon</groupId>
+  <artifactId>mule-toon-connector</artifactId>
+  <version>1.0.0</version>
+  <classifier>mule-plugin</classifier>
 </dependency>
 
 ```
