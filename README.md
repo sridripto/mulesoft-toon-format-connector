@@ -1,4 +1,4 @@
-# mulesoft-toon-format-connector
+# MuleSoft TOON Format Converter Connector
 
 
 
@@ -25,10 +25,10 @@ Add to your Mule project's `pom.xml`:
 ```xml
 
 <dependency>
-  <groupId>com.github.toon</groupId>
-  <artifactId>mule-toon-connector</artifactId>
-  <version>1.0.0</version>
-  <classifier>mule-plugin</classifier>
+	<groupId>com.github.toon</groupId>
+	<artifactId>mule-toon-connector</artifactId>
+	<version>1.0.0</version>
+	<classifier>mule-plugin</classifier>
 </dependency>
 
 ```
@@ -38,10 +38,6 @@ Add to your Mule project's `pom.xml`:
 \## Build from source
 
 ```cmd
-
-git clone https://github.com/sridripto/mule-toon-connector.git
-
-cd mule-toon-connector
 
 mvn clean install
 
