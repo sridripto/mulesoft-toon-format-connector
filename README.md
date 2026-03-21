@@ -1,24 +1,21 @@
 # MuleSoft TOON Format Converter Connector
 
-
-
 Converts Mule payloads (JSON, XML, CSV, String) to TOON (Token-Oriented Object Notation) — a compact, token-efficient format for LLM input.
 
+## Requirements
+- Mule Runtime 4.6.0+
+- Java 17
+- Anypoint Studio 7.x
 
+## Build from source
 
-\## Requirements
+```cmd
 
-\- Mule Runtime 4.6.0+
+mvn clean install
 
-\- Java 17
+```
 
-\- Anypoint Studio 7.x
-
-
-
-\## Installation
-
-
+## Installation
 
 Add to your Mule project's `pom.xml`:
 
@@ -32,14 +29,3 @@ Add to your Mule project's `pom.xml`:
 </dependency>
 
 ```
-
-
-
-\## Build from source
-
-```cmd
-
-mvn clean install
-
-```
-
