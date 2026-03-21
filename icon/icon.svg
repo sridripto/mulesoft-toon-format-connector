@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.962" height="23.962" viewBox="0 0 2048 2048">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+        font-size: 150px;
+        fill: #00a1df;
+        text-anchor: middle;
+        font-family: Forte;
+      }
+    </style>
+  </defs>
+  <text id="Token_Oriented_Object_Notation_Connector" data-name="Token Oriented Object Notation Connector" class="cls-1" transform="translate(1024 500.699) scale(2.019 3.923)"><tspan x="0">Token Oriented</tspan><tspan x="0" dy="180">Object Notation</tspan><tspan x="0" dy="180">Connector</tspan></text>
+</svg>
